@@ -65,3 +65,34 @@ With
   Prototyping
   Integrating & Interoperability
   RD&T
+
+-----
+
+[#]:! ' '
+
+[#]:! '/ DEV /'
+
+
+[#]:! "  // vars"
+[#]:! "  codeComment = {[#]: ' '}"
+[#]:! "    // ^ markdown comment"
+[#]:! "    // ^^ dev notes usage"
+
+
+[#]:! "/ DEV /"
+
+
+
+[#]:! "/ Images /"
+
+
+[#]:! "
+        ![JeffreyBodin-YouTube-Playlist--Contribution Stream Log_2021-09-07_17-55-56](https://user-images.githubusercontent.com/15793353/132423720-a788ff55-a63e-4816-8fe3-3a515d85e6c1.png)
+      "
+[#]:! " "
+![JeffreyBodin-YouTube-Playlist--Contribution Stream Log_2021-09-07_17-55-56](/media/JeffreyBodin-YouTube-Playlist--Contribution%20Stream%20Log_2021-09-07_17-55-56.png)
+
+
+[#]:! "/ Images /"
+
+-----
